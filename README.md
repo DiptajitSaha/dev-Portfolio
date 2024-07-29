@@ -14,7 +14,7 @@
 
 ![](./public/image/image.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://diptajit-portfolio.vercel.app/).
 
 
 
