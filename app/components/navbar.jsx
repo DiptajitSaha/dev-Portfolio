@@ -9,7 +9,7 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center">
           <Link
             href="https://github.com/DiptajitSaha" target = "_blank"
-            className=" text-[#16f2b3] text-3xl font-bold">
+            className=" bg-gradient-to-r from-yellow-600 to-purple-400 inline-block text-transparent bg-clip-text text-4xl font-bold">
             DIPTAJIT SAHA
           </Link>
         </div>
@@ -21,13 +21,13 @@ function Navbar() {
             </Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#skills"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">SKILLS</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#skills"><div className="text-sm text-white transition-colors duration-300 hover:text-green-600">SKILLS</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#education"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">EDUCATION</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#education"><div className="text-sm text-white transition-colors duration-300 hover:text-red-600">EDUCATION</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">PROJECTS</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-yellow-600">PROJECTS</div></Link>
           </li>
         </ul>
       </div>
